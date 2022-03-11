@@ -1,4 +1,6 @@
 ### Ola Eu Sou o Henrique Chaves ✌️🌃
+Desenvolvedor e pesquisador da area de Tecnologia, estou sempre a procura de novas formas de otimizar e implementar mais meus conhecimentos
+
 [![Linkden](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-henrique-chaves-57b877232/)
 
 
@@ -15,4 +17,3 @@ Technologies I use on a daily basis
 <img/align="center" alt="css" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-Desenvolvedor e pesquisador da area de Tecnologia sempre a procura de novas formas de otimizar e implementar mais meus conhecimentos
