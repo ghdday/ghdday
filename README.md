@@ -1,6 +1,11 @@
 ### Ola Eu Sou o Henrique Chaves ✌️🌃
 Desenvolvedor e pesquisador da area de Tecnologia, estou sempre a procura de novas formas de otimizar e implementar mais meus conhecimentos
 
+<a href="https://github.com/ghdday">
+  <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="18%"/>
+</a>
+
+
 [![Linkden](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-henrique-chaves-57b877232/)
 
 
