@@ -2,7 +2,7 @@
 Desenvolvedor e pesquisador da area de Tecnologia, estou sempre a procura de novas formas de otimizar e implementar mais meus conhecimentos<br/>
 
 <a href="https://github.com/ghdday">
-  <img src="https://docs.unity.cn/Packages/com.unity.visualeffectgraph@10.2/manual/images/Block-TileWarpPositionsMain.gif" align="right" width="30%"/>
+  <img src="https://cdn.dribbble.com/users/281953/screenshots/14185638/media/cee0cae52e27109df7eeaeb281e65911.gif" align="right" width="15%"/>
 </a>
 
 
